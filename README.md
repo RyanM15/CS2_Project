@@ -8,3 +8,5 @@
 - April 7 log -- settled on four stats for postion players (infield outfield) and pitchers. Thinking might just do these two and hardcode my own stats that I find and compile because API has individual players but I need average at a postion. I havent been able to find averages for average player only the best or worst, this may cause me to change to a different scale of measuring skill
  
 - April 9 log -- began writing my code today. Just began getting my code to accept a position from the user and trying to seperate getting stats for position player rather than pitcher and getting the seperate stats for the pitcher. Trying to figure out how I can use multiple stingcomps for one argument.
+
+- April 13 log -- kept writing the actaul code, hardcoded stats
