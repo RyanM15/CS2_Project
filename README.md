@@ -10,3 +10,5 @@
 - April 9 log -- began writing my code today. Just began getting my code to accept a position from the user and trying to seperate getting stats for position player rather than pitcher and getting the seperate stats for the pitcher. Trying to figure out how I can use multiple stingcomps for one argument.
 
 - April 13 log -- kept writing the actaul code, hardcoded stats
+
+- April 19 log -- finished harcoding the stats, put in how to grade if all stats are greater than hall of fame average it gives player a rate of 8 (the best)
