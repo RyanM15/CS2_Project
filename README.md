@@ -14,3 +14,5 @@
 - April 19 log -- finished harcoding the stats, put in how to grade if all stats are greater than hall of fame average it gives player a rate of 8 (the best)
 
 - April 21 log -- began a numbers sheet to better visualize the stats because I was having a problem with how to determine a rank. Still not sure how to decide if someone has really good of one thing but bad of another where to rank them and how to code that.
+
+- April 23 log -- continued to hardcode the stats in but not sure how the program will handle data entries that are not specifically coded in, for example if someone has a really high batting average but low fielding percentage I dont know how I would rank that.
