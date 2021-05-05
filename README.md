@@ -17,4 +17,4 @@
 
 - April 23 log -- continued to hardcode the stats in but not sure how the program will handle data entries that are not specifically coded in, for example if someone has a really high batting average but low fielding percentage I dont know how I would rank that.
 
-- May 2 log -- continued hardcoding
+- May 2 log -- continued hardcoding and thought about how to export the program as an app
