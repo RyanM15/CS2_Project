@@ -22,3 +22,5 @@
 - May 5 log -- finished the program in cs50 and it works, began to figure out how to convert it to repl.it
 
 - May 7 log -- finished converting to repl.it, published my code and am finished with the project
+
+link to project in cs50 ide - https://ide.cs50.io/c1a0e26372a1404a8d32b8568e036a6b
